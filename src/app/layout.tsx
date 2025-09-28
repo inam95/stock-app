@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pulseforge",
+  title: "Signalist",
   description:
     "Track real-time stock prices, get personalized alerts, explore detailed company insights, and manage your portfolio with ease.",
 };
